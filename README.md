@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @Oscy4
-- 👀 I’m interested in ... robotics, machine learning and IoT
+# Welcome to my Github Page
+
+- 👋 Hi, I’m Oscar
+- 👀 I’m interested in ... machine learning, data science and data
 - 🌱 I’m currently learning ... how to be a better programmer
-- 💞️ I’m looking to collaborate on ... anything robotics and AI related!
+- 💞️ I’m looking to collaborate on ... anything AI and ML
 - 📫 How to reach me ... via email, oscar.lares@uga.edu
 
 <!---
